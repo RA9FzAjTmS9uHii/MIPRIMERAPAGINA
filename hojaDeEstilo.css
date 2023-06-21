@@ -4,6 +4,10 @@
     padding: 20px;
 }
 
+.greeting{
+  text-align: center;
+}
+
 .container-nav {
     display: flex;
     padding: 10px;
